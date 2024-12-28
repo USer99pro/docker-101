@@ -1,15 +1,27 @@
+### Docker info
+```
+   docker info
+```
 ### Docker Processing commands
 ```
 # Process all
-
-docker ps -a
-
+   docker ps -a
 # Process is runing
-
-docker ps 
+   docker ps 
 ```
-
-
+### Docker Remove and stop Contaier , Images
+```
+# stop container
+   docker stop <container ID>
+# Delete conatainer
+   docker rm <conrainer ID>
+# Delete Image
+   docker rmi <Image ID>
+```
+### Docker Show List Image
+```
+   docker images
+```
 ### INSTALLATION Package
 ```
 npm init -y
