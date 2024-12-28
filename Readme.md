@@ -1,5 +1,6 @@
 ### INSTALLATION Package
 ```
+npm init -y
 npm i express
 ```
 ### Build Docker Image
