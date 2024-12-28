@@ -1,3 +1,15 @@
+### Docker Processing commands
+```
+# Process all
+
+docker ps -a
+
+# Process is runing
+
+docker ps 
+```
+
+
 ### INSTALLATION Package
 ```
 npm init -y
