@@ -6,6 +6,7 @@
 ```
 # Process all
    docker ps -a
+
 # Process is runing
    docker ps 
 ```
@@ -13,8 +14,10 @@
 ```
 # stop container
    docker stop <container ID>
+
 # Delete conatainer
    docker rm <conrainer ID>
+
 # Delete Image
    docker rmi <Image ID>
 ```
