@@ -1,6 +1,6 @@
 ### Docker info
 ```
-   docker info
+docker info
 ```
 ### Docker Processing commands
 ```
@@ -52,6 +52,10 @@ docker login
    example : docker tag abc123 myusername/my-app:1.0
 ```
 docker tag <IMAGE_ID> <USERNAME>/<REPOSITORY_NAME>:<TAG>
+```
+3. Run file Project
+```
+node <file.js>
 ```
 3. Push to Docker Hub
 
