@@ -63,3 +63,8 @@ node <file.js>
 ```
  docker push <USERNAME>/<REPOSITORY_NAME>:<TAG>
 ```
+4. Run file node
+```
+node <file.js>
+```
+
